@@ -1,2 +1,1 @@
-# PrepCoursHerry
-Este es un repositorio de prueba del modulo 2
+Este proyecto es una prueba para crear un repositorio y como clonarlo desde github a el escritorio.
